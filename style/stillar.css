@@ -1,0 +1,17 @@
+#portfolio_photo{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+header{
+  text-align: center;
+}
+.experience__company, .education__institution{
+  color: green;
+}
+table{
+  width: 100%;
+}
+.field{
+  margin-bottom: 5px;
+}
